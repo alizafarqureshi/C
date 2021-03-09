@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605177624 source:c:\users\ghazi\desktop\itc smart lab\ali\multiplication table\main.c
+	<stdio.h>
+	<stdlib.h>
+
